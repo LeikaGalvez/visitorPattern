@@ -30,6 +30,7 @@ public class FurnitureTest {
 ![image](https://github.com/LeikaGalvez/visitorPattern/assets/142652629/1742ae51-7649-4a91-9cbe-8cec3c677870)
 #
 # UML Diagram
-TBA
+![visitorPattern_UML](https://github.com/LeikaGalvez/visitorPattern/assets/142652629/e7418321-7cdf-49fa-a8ef-bc232d7400e9)
+
 
 
