@@ -24,8 +24,4 @@ public class FurnitureVisitor implements Visitor{
         System.out.print("Chair Item Shipping Cost: ");
         return shippingCost +=10;
     }
-
-    public double getShippingCost() {
-        return shippingCost;
-    }
 }
